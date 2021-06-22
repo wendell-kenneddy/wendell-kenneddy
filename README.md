@@ -1,6 +1,6 @@
 :wave: Hello there!
 
-# Meu nome é Wendell, e atualmente sou apenas um estudante de desenvolvimento web, focado no Front-End mas quem sabe um dia Full-Stack.
+# Meu nome é Wendell, e atualmente sou apenas um estudante de desenvolvimento web, experimentando tanto Frontend quanto Backend.
 
 ## :briefcase: Tecnologias com as quais trabalho
 - HTML5
