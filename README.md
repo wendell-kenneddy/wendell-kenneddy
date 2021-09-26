@@ -9,6 +9,8 @@
 - Express
 - SQL
 - Git
+- MongoDB
+- Firebase
 
 ## :hammer_and_pick: Ferramentas que utilizo em meus projetos
 - Visual Studio Code como editor de códigos
