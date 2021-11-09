@@ -1,22 +1,15 @@
-:wave: Hello there!
+### :wave: Hello there!
 
-# Meu nome é Wendell, e atualmente sou apenas um estudante de desenvolvimento web, experimentando tanto Frontend quanto Backend.
+My name is Wendell Kenneddy, amd currently I'm a web development student, on both Frontend and Backend.
 
-## :briefcase: Tecnologias com as quais trabalho
-- HTML5
-- CSS3 e SCSS 
-- JavaScript
-- Express
-- SQL
-- Git
-- MongoDB
-- Firebase
+Passionate about technology, music and games, and always looking for something new to learn.
 
-## :hammer_and_pick: Ferramentas que utilizo em meus projetos
-- Visual Studio Code como editor de códigos
-- Figma
-- StackOverflow xDDD
+### ☕ Contact Me
 
-## :phone: Contato
-- E-mail: wkenneddy505@gmail.com
-- LinkedIn: em breve...
+<a href="https://www.linkedin.com/in/wendellkenneddy/" target="_blank">
+    <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+</a>
+
+<a href="mailto:wkenneddy505@gmail.com">
+    <img align="left" alt="Wendell | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+</a>
