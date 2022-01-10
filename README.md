@@ -7,7 +7,7 @@ Passionate about technology, music and games, and always looking for something n
 ### ☕ Contact Me
 
 <a href="https://www.linkedin.com/in/wendellkenneddy/" target="_blank">
-    <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Wendell | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
 </a>
 
 <a href="mailto:wkenneddy505@gmail.com">
